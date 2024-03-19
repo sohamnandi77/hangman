@@ -26,7 +26,7 @@ npm run build
 
 ## Demo
 
-Hosted on personal cPanel server. [Click here](https://hangman.salimi.my) to visit.
+Hosted privately on personal DigitalOcean Droplet. [Click here](https://hangman.salimi.my) to visit.
 <br>
 Direct link: `https://hangman.salimi.my`
 
