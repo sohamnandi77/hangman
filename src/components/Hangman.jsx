@@ -13,15 +13,15 @@ const HangmanParts = [
   Hangman4,
   Hangman5,
   Hangman6,
-  Hangman7
+  Hangman7,
 ];
 
 const Hangman = ({ numberOfGuesses }) => {
   return (
-    <div className='flex justify-center mt-10'>
+    <div className="flex justify-center mt-10">
       <img
         src={HangmanParts[numberOfGuesses]}
-        className='h-[200px] md:h-[300px]'
+        className="h-[200px] md:h-[300px]"
       />
     </div>
   );
